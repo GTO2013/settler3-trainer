@@ -1,0 +1,37 @@
+MANA:
+Static: 007E3408, Offset: 01194468
+Static: 007E7B60, Offset:01194468
+
+Base Adress Mana: 15AA5488
+
+Posi> 12638EA0, off> 012A5E76
+
+gebäudetyp:
+base: 02686A30, off: 88
+static : 007A8238
+
+crazy shit:
+126D145D, off: 012A5E63
+126D1020, off: 012A5E60
+
+139772C0
+
+126D145F, off : 012A5E61
+
+Wert: Schwerträger 100%: 64000500 (HEX)
++40 (Hex) bei jedem schwerträger
+
+12838020, off: 12A5E5C
+Static: 7E3408, 7E7B60
+84 Offset zu erstem Schwerträger
+
+Liste:
+0x500 --> Schwertträger Stufe 1, mein Team
+Bis 2E00
+0xXXYY --> XX, Art der Einheit, YY Team der Einheit
+
+Gebäude:
+Static: 129BE020, Off: 1238858
+
+Gebäude Offset
+123885D --> Anzahl Ressourcen davor
