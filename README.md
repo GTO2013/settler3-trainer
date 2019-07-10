@@ -1,7 +1,7 @@
 # settler3-trainer
 Settler 3 Advanced Trainer
 
-This trainer allows you to do the following things:
+This is an old project I dug out, it allows you to do the following things:
   - Lose the game (very useful, still buggy)
   - Win the game (still buggy)
   - Unlimited Mana
