@@ -1,4 +1,4 @@
-# settler3-trainer
+# Settler3 Trainer
 Settler 3 Advanced Trainer
 
 This is an old project I dug out, it allows you to do the following things:
